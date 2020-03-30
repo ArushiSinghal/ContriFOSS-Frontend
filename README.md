@@ -13,6 +13,6 @@
 * ```npm config delete proxy``` and ```npm config delete https-proxy``` (For removing proxy, if required)
 
 ### Start React Server
-* cd frontend
+* cd contrifoss-app
 * npm install
 * npm run start
